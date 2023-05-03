@@ -1,0 +1,1 @@
+Neste Desafio o objetivo era  colocar a mão na massa e clonar a página do YouTube com CSS colocando em prática todos os conceitos aprendidos, principalmente sobre Flexbox.
